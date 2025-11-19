@@ -1,2 +1,3 @@
 # dore-Network-
-paye har kary moheme mikham inja harchi ke rajeb dore network+ yad gereftam uplod mikkonam
+BRAYE SHORO HAR KARI PAYE ON KKAR MOHEM TARIN BAKHSH ON MAJRAST
+mikham inja harchi ke rajeb dore network+ yad gereftam inja share konam!!
