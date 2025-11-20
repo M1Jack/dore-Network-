@@ -10,6 +10,7 @@
 - Switch **data ra faghat be port mored nazar miresand**, na be hame port ha  
 - Switch smart device ast, VLAN va MAC table ra mifahmad  
 - Switch daraye 4 port hast *
+- Switch ha ye ghabeliat support mikonan be esm *SPAN* ---> switch port analyzer [ karesh copy gereftan az data vard shode v ersal be port moshakhas shode.
 
 ## Packet Forwarding Example
 1. **Source (src)**: PC-A → MAC 00:1A:2B:3C:4D:5E  
