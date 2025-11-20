@@ -1,0 +1,33 @@
+# Session [5] – Network+
+
+## Main Topics
+- Switch chist? (what is switch?)  
+- Switch chetor kar mikonad? (how does switch work?)  
+- Fargh switch ba hub chist? (what is the difference between switch and hub?)  
+
+## Flashback – Switch Basics
+- Switch = device ke chand PC ra be ham vasl mikonad  
+- Switch **data ra faghat be port mored nazar miresand**, na be hame port ha  
+- Switch smart device ast, VLAN va MAC table ra mifahmad  
+- Switch daraye 4 port hast *
+
+## Packet Forwarding Example
+1. **Source (src)**: PC-A → MAC 00:1A:2B:3C:4D:5E  
+2. **Destination (dst)**: PC-C → MAC 00:1A:2B:3C:4D:60  
+
+**Switch Behavior:**  
+- Switch checks MAC table: finds dst MAC (00:1A:2B:3C:4D:60) on Port3  
+- Switch forwards packet only to **Port3**  
+- Ports 1, 2, 4 do not receive the packet  
+
+## Explanation
+- Switch = hardware baraye network  
+- Hame PC ha ra be ham vasl mikonad  
+- Data ra faghat be PC mored nazar miresand (ine bandwidth ra hifz mikonad)  
+- Fargh hub:  
+  - Hub simple ast, data ra be hame port ha broadcast mikonad  
+  - Switch smart ast, data ra faghat be port motelegh be MAC address miresand  
+- Estefade dar LAN haye koochik
+
+## Resources & Links
+- باشگاه شبکه و امنیت تهران
