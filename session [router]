@@ -1,0 +1,26 @@
+# Session [6] – Network+
+
+## Main Topics
+- Router chist? (what is router?)  
+- Router chetor kar mikonad? (how does router work?)  
+- Fargh router ba switch chist? (what is the difference between router and switch?)  
+
+## Flashback – Router Basics
+- Router = device ke chand network ra be ham vasl mikonad  
+- Router **data ra be network mored nazar miresand**, na faghat be port  
+- Router smart device ast, routing table va IP address ha ra mifahmad  
+- Router ha ba estefade az information ke darn morevajeh change hashon mishan 
+
+## Explanation
+- Router = hardware baraye network  
+- IP address ha ra check mikonad va packet ra be network mored nazar ersal mikonad  
+- Fargh switch:  
+  - Switch faghat LAN ro vasl mikonad va data ra be PC motelegh be MAC address miresand  
+  - Router LAN ha ya network ha ra be ham vasl mikonad va IP layer ro handle mikonad  
+- Estefade dar LAN ta WAN, baraye ersal internet va network haye bozorg  
+
+## Resources & Links
+- Beshgah shabake va amniyat Tehran – baraye practice router setup va routing table
+
+## Resources & Links
+باشگاه شبکه و امنیت تهران
