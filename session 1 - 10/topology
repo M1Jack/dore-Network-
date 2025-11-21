@@ -1,0 +1,25 @@
+# Session [8] – Network+
+
+## Main Topics
+- Topology chist? (topology yani tarze vasl shodan device ha dar network)
+- Broadcast Domain chist?
+- Bus Topology chist?
+
+## Flashback – Network Basics
+- Topology = tarze chidan device ha dar network  
+- Har topology moshakhas mikone traffic chetor jaryan peyda mikone  
+
+## Explanation
+
+### Bus Topology
+- Hame device ha be **yek cable asli** vasl mishavand  
+- Age cable asli ghat beshe, hame network down mishavad  
+- Sade tarin topology ha  
+
+### Broadcast Domain
+- Broadcast domain = hame device ha broadcast ro migiran  
+- Agar ye device broadcast befrestad → hameye device haye dakhele domain migiran  
+- Dar topology Bus → **kol network yek broadcast domain ast**
+
+## Resources
+- Beshgah shabake va amniyat Tehran – baraye تمرین topology haye sade
