@@ -1,0 +1,26 @@
+# Session [9] – Network+
+
+## Main Topics
+- Star Topology chist? (what is the star topology?)
+- Tarze kar Star Topology  chejori hast? (how does stars topology work ?)
+- Broadcast Domain dar Star Topology chist? (what is the braodcast domain in star topology?)
+
+## Flashback – Star Basics
+- Hame device ha be cable device markazi be ham vasl mishavand (mostly switch)  
+- Har PC ye link joda ta markaz darad  
+
+## Explanation
+
+### Star Topology
+- Device ha → be switch ya hub vasl mishavand  
+- Age ye cable ghat beshe → faghat hamun device ghat mishe, baghie salem mimanan  
+- Mashhoor tarin topology LAN ha  
+
+### Broadcast Domain dar Star
+- Ta vaghti switch estefade mishavad → **hame device ha yek broadcast domain hastand**  
+- Broadcast az ye PC befresti, hame device haye dar LAN migiran  
+- cable coaxial 8 reshte sim mesi ke harkodom az in sim ha 2 be 2 beham dige tapide shode 
+- cable coazial faghat dar 100 metr kar mikone 
+
+## Resources
+- باشگاه شبکه و امنیت تهران
