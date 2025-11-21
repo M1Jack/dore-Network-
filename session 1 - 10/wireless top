@@ -1,0 +1,30 @@
+# Session [10] – Network+
+
+## Main Topics
+- Wireless Infrastructure Topology chist?  (what is the wireless topology is all about?)
+- AP che naghshi dar in topology dard? (what is the AP part in this wirless network?)
+- Broadcast Domain dar Wireless Infrastructure che kkari anjam mide? ( what do broadcast does in wireless network?)
+
+## Flashback – Infrastructure Basics
+- Dar in model → hame device ha be **Access Point (AP)** vasl mishavand 
+- AP mishe markaz network wireless  
+- Device ha be ham dastaresi daran vali hame traffic az AP miborad  
+
+## Explanation
+
+### Wireless Infrastructure Topology
+- Laptop, phone, PC → hame be AP vasl mishavand  
+- AP → be switch ya router vasl ast  
+- In topology mashhoor-tarin model wireless ast (Wi-Fi khaneh, office, school)  
+- Device be device mostaghiman vasl nemishavad → **hame chiz az AP migozarad**
+
+### Broadcast Domain
+- Hame device haye vasl shode be hamun AP → **yek broadcast domain**  
+- Broadcast az ye device wireless → tamame device haye vasl shode be AP migiran  
+
+### Ussfull word 
+- iblss =independent Basic service set {maroff be---> Ad-hoc}
+-ess =extended service setcinfrastructurel 
+
+## Resources
+- Beshgah shabake va amniyat Tehran – تمرین setup Infrastructure Wireless ba AP
