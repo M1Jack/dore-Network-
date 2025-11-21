@@ -1,0 +1,24 @@
+# Session [4] – Network+
+
+## Main Topics
+- System haye adadi chist? (What is the system metrics numbers?)
+- Binary, Decimal, Hexadecimal chetor kar mikonand? ( how does this work (Binary-decimal-Hexadecimal) ?)
+- Faide ha va estefade ha dar networking ( the usege of this numbers in networking!)
+
+## Flashback – Number Systems
+- **Binary (Base 2)** = faghat 0 va 1
+- **Decimal (Base 10)** = 0 ta 9, systeme shomaresh ma ensan ha
+- **Hexadecimal (Base 16)** = 0 ta 9 va A ta F (10 ta 15)
+- **Saurce ---> src فرستنده ( hich mac address dar donya eyksan nist )
+-**Destination ---> dst گیرنده 
+
+## Explanation
+- Computer ha faghat binary mifahmand
+- Networking baraye IP addresses, MAC addresses, mask ha az binary va hex estefade mikonad
+- Tabdil decimal <-> binary <-> hexadecimal mohem ast
+- Decimal 15 = Binary 1111 = Hex F
+- Decimal 255 = Binary 11111111 = Hex FF
+- Hexadecimal shortcut baraye binary ast (har hex = 4 bit)
+
+## Resources & Links
+- باشگاه شبکه و امنیت تهران
