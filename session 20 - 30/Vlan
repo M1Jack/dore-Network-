@@ -1,0 +1,34 @@
+# Session [22] – Network+
+
+## Main Topics
+- VLAN chist?  
+- Tarze kar VLAN  
+- Estefadeh-ha dar network  
+
+## Flashback – VLAN Basics
+- VLAN = Virtual LAN  
+- VLAN **device ha ra az LAN fiziki joda mikonad** baraye segmentation  
+- Hame device dar LAN mitavanand be VLAN haye mokhtalef vasl shavand  
+
+## Explanation
+
+### Tarze Kar
+- Switch VLAN aware → port ha ro assign mikonad be VLAN specific  
+- Traffic VLAN joda mishavad → broadcast domain joda  
+- Routers/VLAN trunk baraye ersal traffic be VLAN digar  
+
+### Estefadeh-ha
+- Security behtar → devices VLAN digar nemitavanand directly access konand  
+- Bandwidth optimize → broadcast ha limited mishavad  
+- Network management easier  
+
+### Example Table
+| Port | VLAN ID | Device |
+|------|---------|--------|
+| 1    | 10      | PC-A   |
+| 2    | 10      | PC-B   |
+| 3    | 20      | PC-C   |
+| 4    | 20      | AP     |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
