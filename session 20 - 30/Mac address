@@ -1,0 +1,38 @@
+# Session [21] – Network+
+
+## Main Topics
+- MAC Address chist?  
+- Tarze kar MAC Address  
+- Estefadeh-ha dar network  
+
+## Flashback – MAC Basics
+- MAC = Media Access Control address  
+- Har device dar network ba hardware address unique shenakht mishavad  
+- 48-bit (6 octet) ast, aksaran be **Hexadecimal** neshan dade mishavad  
+
+## Explanation
+
+### Tarze Kar
+- MAC address dar **Layer 2 (Data Link Layer)** estefade mishavad  
+- Switch ha faghat be **MAC table** motelegh be port data ro ersal mikonand  
+- Source MAC = device ferestande  
+- Destination MAC = device giriye  
+
+### Format MAC
+- Format: `00:1A:2B:3C:4D:5E`  
+- Har octet = 8 bit (4 hex digits)  
+
+### Estefadeh-ha
+- Device identification dar LAN  
+- Filtering va access control (ACL) dar switch/AP  
+- Packet forwarding dar LAN  
+
+### Example Table
+| Device | MAC Address | Port |
+|--------|------------|------|
+| PC-A   | 00:1A:2B:3C:4D:5E | Port1 |
+| PC-B   | 00:1A:2B:3C:4D:5F | Port2 |
+| AP     | 00:1A:2B:3C:4D:60 | Port3 |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
