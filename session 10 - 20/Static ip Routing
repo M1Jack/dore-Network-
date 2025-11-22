@@ -1,0 +1,31 @@
+# Session [19] – Network+
+
+## Main Topics
+- Static IP Routing chist?  
+- Tarze kar static routing  
+- Estefadeh-ha dar network  
+
+## Flashback – Static Routing Basics
+- Static Routing = meghdar dadan route ha **manual** be router  
+- Routers address ro nemifahmand → admin moshakhas mikonad masir  
+
+## Explanation
+
+### Tarze Kar
+- Har route ba **destination network + subnet mask + next hop/router IP** moshakhas mishavad  
+- Router packet ro be masir mored nazar mifrestad  
+- Command dar Windows/Router: `route add [destination] mask [subnet] [next hop]`  
+
+### Estefadeh-ha
+- Networks koochik va simple  
+- Jaye ke traffic predictable ast  
+- Resource kam (no CPU load)  
+
+### Example
+| Destination | Subnet Mask | Next Hop | Interface |
+|------------|------------|----------|-----------|
+| 192.168.2.0 | 255.255.255.0 | 192.168.1.2 | Ethernet0 |
+| 10.0.5.0   | 255.0.0.0     | 10.0.0.1   | Ethernet1 |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
