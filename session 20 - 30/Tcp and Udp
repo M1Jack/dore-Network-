@@ -1,0 +1,38 @@
+# Session [23] – Network+
+
+## Main Topics
+- TCP & UDP chistand?  
+- Tarze kar TCP va UDP  
+- Estefadeh-ha dar network  
+
+## Flashback – Transport Layer Basics
+- TCP = Transmission Control Protocol → reliable, connection-oriented  
+- UDP = User Datagram Protocol → unreliable, connectionless  
+- Har do dar Layer 4 (Transport Layer) estefade mishavand  
+
+## Explanation
+
+### TCP
+- **Connection-oriented** (3-way handshake: SYN → SYN-ACK → ACK)  
+- Reliable delivery → retransmission agar data kharab beshe  
+- Sequence number + flow control  
+- Estefadeh: HTTP/HTTPS, FTP, SSH, Email  
+
+### UDP
+- **Connectionless** → packet ha ro bezaheri ferestad  
+- No guarantee delivery, order ya error checking  
+- Faster, low overhead  
+- Estefadeh: DNS, DHCP, VoIP, Video streaming  
+
+### Comparison Table
+| Feature | TCP | UDP |
+|---------|-----|-----|
+| Connection | Yes | No |
+| Reliability | Reliable | Unreliable |
+| Order | Maintained | Not guaranteed |
+| Error checking | Checksum + retransmission | Checksum only |
+| Speed | Slower | Faster |
+| Use case | Web, Email, File transfer | DNS, VoIP, Video streaming |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
