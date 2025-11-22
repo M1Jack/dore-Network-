@@ -1,0 +1,31 @@
+# Session [16] – Network+
+
+## Main Topics
+- Default Gateway chist?  
+- Tarze kar Default Gateway  
+- Estefadeh-ha dar network  
+
+## Flashback – Default Gateway Basics
+- Default Gateway = device (aksaran router) ke **traffic ra be network digar ersal mikonad**  
+- Har device IP address khodesh + subnet mask dare, va traffic be girefte shode baraye network digar → be Default Gateway mirevad  
+
+## Explanation
+
+### Tarze Kar
+- default gateway manzor ine darvaze vorod be shabake ya khoroje
+- Agar device bekhahad be IP address ke dar LAN nist dastresi peyda konad → packet ra be Default Gateway mifrestad  
+- Routers Default Gateway ra check mikonand va packet ra be network motelegh migzarand  
+
+### Estefadeh-ha
+- Access be internet  
+- Ersal packet be LAN haye digar  
+- Simplify routing dar small networks  
+
+### Example
+| Device IP | Subnet Mask | Default Gateway |
+|-----------|------------|----------------|
+| 192.168.1.10 | 255.255.255.0 | 192.168.1.1 |
+| 10.0.5.20   | 255.0.0.0     | 10.0.0.1    |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
