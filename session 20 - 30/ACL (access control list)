@@ -1,0 +1,36 @@
+# Session [27] – Network+
+
+## Main Topics
+- ACL chist?  
+- Tarze kar ACL  
+- Estefadeh-ha dar network  
+
+## Flashback – ACL Basics
+- ACL = Access Control List  
+- Listei az **rules** ke traffic ro filter mikonad  
+- Baraye security, limit access va control traffic estefade mishavad  
+
+## Explanation
+
+### Tarze Kar
+- ACL dar router ya switch configure mishavad  
+- Rule ha bar asas: source IP, destination IP, protocol, port  
+- Action = permit ya deny  
+
+### Types of ACL
+- **Standard ACL** → check mikonad **source IP only**  
+- **Extended ACL** → check mikonad source + destination + protocol + port  
+
+### Example Table
+| ACL Type      | Criteria Checked                   | Action |
+|---------------|----------------------------------|--------|
+| Standard      | Source IP                        | Permit/Deny |
+| Extended      | Source IP, Destination IP, Port, Protocol | Permit/Deny |
+
+### Estefadeh-ha
+- Limit access be network segment  
+- Security baraye routers va switches  
+- Control traffic dar LAN/WAN  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
