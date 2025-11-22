@@ -1,0 +1,40 @@
+# Session [12] – Network+
+
+## Main Topics
+- Cable haye network be chand daste taghsim mishavand?  
+- Estefadeh-ha va limitations har cable  
+
+## Flashback – Cable Basics
+- Cable = vasl konande device ha dar LAN  
+- Har cable type performance, distance va speed mokhtalef dare  
+
+## Explanation
+
+### All the Cable ((cat1 to cat 7a))
+cables | data | voice | speed
+cat 1    no       yes     no
+cat 2    yes      yes    4 mbps
+cat 3    yes      yes    10 mbps
+cat 4    yes      yes    16 mbps
+cat 5    yes      yes    100 mbps
+cat 5e   yes      yes    1000 mbps     in cable ha mansokh shode
+------------------------------------------------------------------
+cat 6    yes      yes    1000 mbps
+cat 6a   yes      yes    10000 mbps 
+cat 7    yes      yes    10000 mbps
+cat 7a   yes      yes    40/100 Gbps
+cat 8    yes      yes    nobody knows for now 2025
+
+### Coaxial
+- Kabel round ba shield markazi  
+- Speed: kamtar az twisted pair (Ethernet ghabli)  
+- Max distance bala tar (500m+ depending on standard)  
+- Kam estefade dar LAN modern  
+
+### Fiber Optic
+- Speed: 1Gbps+ ta 400Gbps  
+- Distance: km-ha  
+- Immune b
+
+## Resources
+- باشگاه شبکه و امنیت تهران
