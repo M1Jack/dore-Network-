@@ -1,0 +1,44 @@
+# Session [24] – Network+
+
+## Main Topics
+- DNS chist?  
+- Tarze kar DNS (Query va Answer)  
+- Estefadeh-ha dar network  
+
+## Flashback – DNS Basics
+- DNS = Domain Name System  
+- IP addresses ro be **domain name** va baraks tabdil mikonad  
+- Client → query → DNS server → answer  
+### FQDN 
+- host.name| domain | name 
+-    www.    goola    .com
+              SLD  =  TLD
+
+
+## Explanation
+
+### Tarze Kar
+1. **Query**  
+   - Client domain name ro mikhahad (mesl `www.example.com`)  
+   - Query be DNS server ersal mishavad  
+2. **Answer**  
+   - DNS server IP address mored nazar ra bar migardanad  
+   - Client IP ro migirad va mitavanad packet ro be server ersal konad  
+
+### Types of DNS Query
+- **Recursive Query** → client mikhahad server khodash full answer ro bede  
+- **Iterative Query** → server be client partial answer mide va client query ro continue mikonad  
+
+### Example Table
+| Domain Name         | Query Type | Answer (IP)     |
+|--------------------|-----------|----------------|
+| www.example.com    | Recursive | 93.184.216.34  |
+| www.google.com     | Iterative | 142.250.190.68 |
+
+### Estefadeh-ha
+- Browsing web (domain → IP)  
+- Email routing (MX records)  
+- Load balancing (multiple IPs baraye domain)  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
