@@ -1,0 +1,65 @@
+# Session [14] – Network+
+
+## Main Topics
+- IPv4 chist?  
+- Structure IPv4  
+- Estefadeh-ha va limitations IPv4  
+
+## Flashback – IPv4 Basics
+- IPv4 = Internet Protocol version 4  
+- Layer 3 protocol baraye addressing va routing dar network  
+- Address 32-bit (4 octet) darad, faghat 0–255 dar har octet  
+
+## Explanation
+
+### Structure IPv4
+- Format: **x.x.x.x** (x = 0–255)  
+- Hame address ha joda be **network** va **host** hastand  
+- Masalan: 192.168.1.1  
+  - 192.168.1 → Network  
+  - 1 → Host  
+
+### Estefadeh-ha
+- Routing dar LAN va Internet  
+- Device ha ra identify mikonad  
+- Packet forwarding baraye delivery  
+
+### Limitations
+- Address ha limited (32-bit = 4.2 billion)  
+- Need NAT (Network Address Translation) baraye expand network ha  
+- IPv6 baraye solve kardan limit dar ayande  
+
+# Session [2] – Network+
+
+## Main Topics
+- IPv4 chist?  
+- Structure IPv4  
+- Estefadeh-ha va limitations IPv4  
+
+## Flashback – IPv4 Basics
+- IPv4 = Internet Protocol version 4  
+- Layer 3 protocol baraye addressing va routing dar network  
+- Address 32-bit (4 octet) darad, faghat 0–255 dar har octet  
+
+## Explanation
+
+### Structure IPv4
+- Format: **x.x.x.x** (x = 0–255)  
+- Hame address ha joda be **network** va **host** hastand  
+- Masalan: 192.168.1.1  
+  - 192.168.1 → Network  
+  - 1 → Host  
+
+### Estefadeh-ha
+- Routing dar LAN va Internet  
+- Device ha ra identify mikonad  
+- Packet forwarding baraye delivery  
+
+### Limitations
+- Address ha limited (32-bit = 4.2 billion)  
+- Need NAT (Network Address Translation) baraye expand network ha  
+- IPv6 baraye solve kardan limit dar ayande  
+
+## Resources
+- Beshgah shabake va amniyat Tehran – تمرین IPv4 addressing va subnetting
+
