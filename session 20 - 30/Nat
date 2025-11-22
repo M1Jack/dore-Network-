@@ -1,0 +1,38 @@
+# Session [25] – Network+
+
+## Main Topics
+- NAT chist?  
+- Tarze kar NAT  
+- Estefadeh-ha dar network  
+
+## Flashback – NAT Basics
+- NAT = Network Address Translation  
+- IP address haye private ro be public tabdil mikonad baraye internet access  
+- Routers ya firewalls NAT ra anjam midahand  
+- Nat AKA ------> Network address translation
+## Explanation
+
+### Tarze Kar
+- Device dar LAN IP private dare (mesl 192.168.1.10)  
+- Packet be NAT router miresad → IP private be IP public tabdil mishavad  
+- Internet → reply be public IP → NAT router tabdil mikonad be private IP  
+
+### Types of NAT
+- **Static NAT** → yek private IP be yek public IP map mishavad  
+- **Dynamic NAT** → private IP be yek public IP az pool allocate mishavad  
+- **PAT (Port Address Translation)** → chand private IP ba yek public IP + port mapping  
+
+### Example Table
+| Private IP    | Public IP    | Type |
+|---------------|-------------|------|
+| 192.168.1.10  | 203.0.113.5 | Static |
+| 192.168.1.11  | 203.0.113.6 | Dynamic |
+| 192.168.1.0/24 | 203.0.113.10 | PAT (Port mapping) |
+
+### Estefadeh-ha
+- Access internet baraye LAN private  
+- Conserving public IPs  
+- Security layer (hide private network)  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
