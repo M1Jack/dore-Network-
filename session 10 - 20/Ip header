@@ -1,0 +1,39 @@
+# Session [13] – Network+
+
+## Main Topics
+- IP Header chist?  
+- Field haye mohem dar IP Header  
+- Tarze kar IP Header dar packet forwarding  
+
+## Flashback – IP Header Basics
+- IP Header = section az packet ke **information baraye routing va delivery** ra dare  
+- Har IP packet dar layer 3 (Network Layer) header dare  
+
+## Explanation
+
+### Mohem-tarin Field ha
+- **Version** = IPv4 ya IPv6  
+- **Header Length (IHL)** = size header (chand 32-bit words)  
+- **Total Length** = size kol packet (header + data)  
+- **Source IP** = IP device ferestande  
+- **Destination IP** = IP device giriye  
+- **TTL (Time To Live)** = chand hop packet mitavanad beravad  
+- **Protocol** = TCP/UDP/ICMP etc.  
+- **Checksum** = baraye error detection  
+
+### Tarze Kar
+- Routers va devices header ro mikhonand ta packet ro be destination dorost ersal konand  
+- TTL baraye prevent looping dar network  
+- Checksum baraye ensure kardan ke header kharab nashode  
+
+### Moghayese IPv4 va IPv6
+| Field | IPv4 | IPv6 |
+|-------|------|------|
+| Version | 4 | 6 |
+| Header Length | 20–60 bytes | Fixed 40 bytes |
+| TTL | TTL | Hop Limit |
+| Checksum | Yes | No |
+| Source/Destination | 32-bit | 128-bit |
+
+## Resources
+- Beshgah shabake va amniyat Tehran – تمرین packet capture va IP header inspection
