@@ -1,0 +1,32 @@
+# Session [11] – Network+
+
+## Main Topics
+- Mesh Topology chist?  (what is the mesh topology?)
+- Device ha chetor dar Mesh ba ham ertebat migiran?  (how does devices communicate to eachother?
+- Broadcast Domain dar Mesh topology chetor kar mikonad? (how does broadcast work in mesh topology?)
+
+## Flashback – Mesh Basics
+- Dar Mesh → har device mitavanad be chand device digar vasl shavad  
+- Traffic mitavanad az masir haye mokhtalef be destination beresad  
+- Mesh 2 halt dard (Partial) = (full)
+
+### Mesh Partial or Mesh full?
+- furmull mohasebe | Wan conection<n-1 |  
+- Mesh partial = age wan connection ma kkochak tar bashe ma darim az topology partial mesh estefade mikonim
+- Mesh full = age wan ma bozorg tar ya mosavi bood ma darim az topology full mesh estefade mikonam
+
+## Explanation
+
+### Mesh Topology
+- Har node (AP ya device) be chand node digar link darad  
+- Age ye masir ghat beshe → traffic az masir digar miravad  
+- Reliability bala ast, chon yek masir nist — chand raah vojood darad  
+- Mashhoor dar wireless city networks, sensor networks, mehvarha-ye outdoor  
+
+### Broadcast Domain
+- Dar Mesh topology → hame node ha ke be ham link daran **dar yek broadcast domain hastand**  
+- Broadcast az ye node → tamame node haye link shode migiran  
+- Be hodood-e physical link ha bastegi darad  
+
+## Resources
+- 
