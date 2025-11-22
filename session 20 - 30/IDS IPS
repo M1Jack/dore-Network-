@@ -1,0 +1,53 @@
+# Session [28] – Network+
+
+## Main Topics
+- IDS chist?  
+- IPS chist?  
+- Tarze kar Intrusion Detection / Intrusion Prevention  
+- Estefadeh-ha dar network  
+
+## Flashback – IDS/IPS Basics
+- **IDS (Intrusion Detection System)** → detect mikonad har activity shak-dar, attack, unauthorized access  
+- **IPS (Intrusion Prevention System)** → ham detect mikonad ham جلوی حمله ro migirad  
+- IDS = passive  
+- IPS = active & inline  
+
+## Explanation
+
+### IDS (Intrusion Detection System)
+- Traffic ro monitor mikonad  
+- Attack ro tashkhis mide  
+- **Action:** فقط alert, log, notification  
+- No blocking  
+
+### IPS (Intrusion Prevention System)
+- Traffic ro inline check mikonad  
+- Attack ro detect + block mikonad  
+- **Action:** drop packet, reset connection, block IP  
+
+### NIDS / NIPS (Network-Based)
+- Traffic network ro check mikonad  
+- Baraye LAN, WAN, datacenter  
+
+### HIDS / HIPS (Host-Based)
+- Activity system (processes, files, logs) ro monitor mikonad  
+- Baraye servers / PCs sensitive  
+
+### Example Table
+| System | Meaning | Function | Action |
+|--------|---------|----------|--------|
+| IDS | Intrusion Detection System | Detect | Alert / Log |
+| IPS | Intrusion Prevention System | Detect + Prevent | Block / Drop |
+| NIDS | Network IDS | Monitor traffic | Alert |
+| NIPS | Network IPS | Analyze + block inline | Block |
+| HIDS | Host IDS | Monitor host | Alert |
+| HIPS | Host IPS | Prevent host attacks | Block |
+
+### Estefadeh-ha
+- Stop DDoS  
+- Detect malware patterns  
+- Block port scans  
+- Protection baraye datacenter & enterprise  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
