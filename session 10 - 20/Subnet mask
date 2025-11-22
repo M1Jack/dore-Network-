@@ -1,0 +1,35 @@
+# Session [15] – Network+
+
+## Main Topics
+- Subnet mask chist?  
+- Tarze kar subnet  
+- Estefadeh-ha dar network  
+
+## Flashback – Subnet Basics
+- Subnet = partition kardan yek network bozorg be **network haye koochik tar**  
+- Har subnet hame device ha ra address dehi mikonad  
+
+## Explanation
+
+### Tarze Kar
+- IP address → Network part + Host part  
+- Subnet mask meghdar ro moshakhas mikonad: koja network, koja host  
+- Masalan:  
+  - IP: 192.168.1.0  
+  - Subnet mask: 255.255.255.0  
+  - Network = 192.168.1.0  
+  - Hosts = 1–254  
+-aval ip address miad bad host address miad
+### Estefadeh-ha
+- Bandwidth behtar  
+- Security behtar (separate network segments)  
+- Easier network management  
+
+### Moghayese / Example
+| IP Address | Subnet Mask | Network | Hosts |
+|------------|------------|--------|-------|
+| 192.168.1.10 | 255.255.255.0 | 192.168.1.0 | 1–254 |
+| 10.0.5.20   | 255.0.0.0     | 10.0.0.0    | 1–16,777,214 |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
