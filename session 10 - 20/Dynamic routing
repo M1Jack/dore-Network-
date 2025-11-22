@@ -1,0 +1,32 @@
+# Session [20] – Network+
+
+## Main Topics
+- Dynamic Routing chist?  
+- Tarze kar dynamic routing  
+- Estefadeh-ha dar network  
+
+## Flashback – Dynamic Routing Basics
+- Dynamic Routing = router ha **khodkar** masir ha ra yad migirand va update mikonand  
+- Routers az protocol haye routing estefade mikonand (mesl RIP, OSPF, EIGRP)  
+
+## Explanation
+
+### Tarze Kar
+- Routers data ro exchange mikonand ta **routing table** ro update konand  
+- Masir ha bar asas metrics (distance, cost, speed) entekhab mishavand  
+- Routers be sorat automatic masir ha ra adjust mikonand vaghti network taghir mikonad  
+
+### Estefadeh-ha
+- Networks bozorg va complex  
+- Traffic dynamic va unpredictable  
+- Efficient va fault-tolerant  
+
+### Example
+| Protocol | Metric | Update Type | Use Case |
+|----------|--------|-------------|----------|
+| RIP      | Hop Count | Periodic   | Small to medium networks |
+| OSPF     | Cost      | Triggered  | Medium to large networks |
+| EIGRP    | Composite | Triggered  | Enterprise networks |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
