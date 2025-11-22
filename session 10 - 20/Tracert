@@ -1,0 +1,38 @@
+# Session [18] – Network+
+
+## Main Topics
+- Tracert va Ping dar Windows chist?  
+- Tarze estefadeh  
+- TTL (Time To Live) chist va chetor kar mikonad  
+
+## Flashback – Tracert & Ping Basics
+- **Ping** = test connectivity be yek IP ya domain  
+- **Tracert** = peygiri masir packet az device shoma ta destination  
+- TTL = meghdar zendeghi packet (chand hop mitavanad beravad)  
+
+## Explanation
+
+### Ping
+- Command: `ping [IP address]`  
+- Check mikonad device dar network dastresi dare ya na  
+- Response time (ms) ro mide  
+
+### Tracert
+- Command: `tracert [IP address]`  
+- Har hop (router) ro neshan mide ke packet az koja gozar kard  
+- Masir network ro visualize mikonad  
+
+### TTL (Time To Live)
+- Har packet dar IP header TTL dare  
+- Har router → TTL minus 1  
+- Agar TTL = 0 beshe → packet discard mishavad  
+- Prevent kardan looping dar network  
+
+### Example
+| Command | Output | Description |
+|---------|--------|------------|
+| ping 8.8.8.8 | Reply from 8.8.8.8: bytes=32 time=20ms TTL=128 | Check connectivity |
+| tracert 8.8.8.8 | 1 192.168.1.1 → 2 10.0.0.1 → … | Masir packet ro neshan mide |
+
+## Resources
+- باشگاه شبکه و امنیت تهران
