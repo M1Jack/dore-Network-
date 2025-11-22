@@ -1,0 +1,38 @@
+# Session [30] – Network+
+
+## Main Topics
+- VPN chist?  
+- Types of VPN: Site-to-Site va Remote Access  
+- Tarze kar va estefadeh-ha dar network  
+
+## Flashback – VPN Basics
+- VPN = Virtual Private Network  
+- Connection encrypted va secure baraye data beyne network ha  
+- Routers, firewalls, ya software VPN client anjam midahand  
+
+## Explanation
+
+### Site-to-Site VPN
+- Do network ro be ham vasl mikonad → LAN to LAN  
+- Routers ya firewalls VPN gateway mishavand  
+- All traffic be sorat automatic az VPN tunnel migozarad  
+- Estefadeh: connecting branch offices  
+
+### Remote Access VPN
+- User ya device farar dar jaye dige → be LAN vasl mishavad  
+- VPN client baraye encrypt connection estefade mishavad  
+- Estefadeh: employees dar khane ya travel  
+
+### Example Table
+| Type        | Connection | Users | Estefadeh |
+|------------|------------|-------|-----------|
+| Site-to-Site | LAN-LAN  | Few networks | Branch offices |
+| Remote Access | User-LAN | Single users | Telecommuting, mobile |
+
+### Estefadeh-ha
+- Secure internet access  
+- Protect sensitive data  
+- Connectivity baraye distributed networks  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
