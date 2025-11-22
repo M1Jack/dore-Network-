@@ -1,0 +1,37 @@
+# Session [26] – Network+
+
+## Main Topics
+- Firewall chist?  
+- Tarze kar Firewall  
+- Estefadeh-ha dar network  
+
+## Flashback – Firewall Basics
+- Firewall = device ya software ke **traffic ro monitor va filter mikonad**  
+- Baraye security va prevent kardan access haye unauthorized estefade mishavad  
+
+## Explanation
+
+### Tarze Kar
+- Firewall rules ro bar asas IP, port, protocol, application moshakhas mikonad  
+- Traffic incoming va outgoing check mishavad  
+- Allow ya deny mikonad bar asas policy  
+
+### Types of Firewall
+- **Packet Filtering Firewall** → traffic ro bar asas source/destination IP & port check mikonad  
+- **Stateful Firewall** → track mikonad state connection ha va rule ha ro apply mikonad  
+- **Application Firewall** → traffic application layer (HTTP, FTP) ro monitor mikonad  
+
+### Example Table
+| Type                   | Function                                   | Use Case |
+|------------------------|-------------------------------------------|----------|
+| Packet Filtering       | Check IP & Port                            | Basic security |
+| Stateful Inspection    | Track connection state                     | Enterprise LAN |
+| Application Layer      | Monitor apps (HTTP, FTP)                   | Web security |
+
+### Estefadeh-ha
+- Protection dar LAN va WAN  
+- Prevent unauthorized access  
+- Control traffic baraye performance va security  
+
+## Resources
+- باشگاه شبکه و امنیت تهران
